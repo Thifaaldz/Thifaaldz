@@ -1,11 +1,16 @@
+=
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZlZjNndGY0Z3MwY2Z0d2F3aW1zN3lpeHBtbnhkb211YW1vZjl0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gjxn5vHtFihCNh4MLc/giphy.gif" width="300" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRrMmRncW4zZ3lmMGF5dmRyZTc4NzQwd25hMzFlOWs5ZGF4enNncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XAZpfo9whz6nu/giphy.gif" width="300" />
 </p>
+
 # 👋 Hi, I'm **Thifaal Dzaki** ! 🧑‍💻
 
 ## 🚀 About Me
-I'm a developer who loves to code clean, fast, and efficient solutions.  
-I enjoy back-end development, low-level programming, and optimizing performance.  
+I'm just a humble student currently exploring the world of code.  
+Still at the *lowest level* of programming.  
+Super curious about data, design analysis, and how things work behind the scenes.  
+Currently learning both back-end and front-end development (because why not suffer on both sides?).  
+Growing little by little — bug by bug, and line by line.
 
 ## 🔧 Tech Stack
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -18,14 +23,17 @@ I enjoy back-end development, low-level programming, and optimizing performance.
 - 🎯 I love solving logic-based problems  
 - 🐱 Cat person (100%)  
 - 🎮 Gaming helps me reset  
-- ☕ Coffee keeps the bugs away (sometimes)
+- ☕ Coffee keeps the bugs away
 
 ## 📊 GitHub Stats
 ![Thifaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=tokyonight)
 
 ## 📫 Let's Connect!
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamamdthifaaldzaki@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-thifaal-dzaki)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/yourdiscordid)
+
+---
 
 ---
 
@@ -37,14 +45,7 @@ I enjoy back-end development, low-level programming, and optimizing performance.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🐍 Snake Activity
 
-![snake gif](https://github.com/Thifaaldz/Thifaaldz/blob/output/github-contribution-grid-snake.svg)
-
-
-> _"Simplicity is the soul of efficiency." – Austin Freeman_
+> _"If you don’t take risks, you can’t create a future." – Monkey D.luffy_
 
 🐾 _Thanks for visiting my GitHub profile!_ 🐾
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlibzhqYjE2ZGh6dDRrNnpub2p1ZGF1Yjh4NXgwcjVzcHNiZXpveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif" width="300" />
-</p>
