@@ -3,9 +3,19 @@
   <img src="https://media.tenor.com/bvPy_eFpqPMAAAAC/one-piece-luffy.gif" width="100%" />
   <img src="https://media.tenor.com/PJ4RsbMFd1kAAAAd/one-piece-walking.gif" width="100%" />
 <img src="https://media.tenor.com/pYv2TQVGUrEAAAAC/monkey-d-luffy-one-piece.gif" width="100%" />
-
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/bvPy_eFpqPMAAAAC/one-piece-luffy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/PJ4RsbMFd1kAAAAd/one-piece-walking.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/pYv2TQVGUrEAAAAC/monkey-d-luffy-one-piece.gif" width="100%" />
+</p>
 
 
 # 👋 Hi, I'm **Thifaal Dzaki** ! 🧑‍💻
