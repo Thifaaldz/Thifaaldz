@@ -26,6 +26,16 @@ I enjoy back-end development, low-level programming, and optimizing performance.
 
 ---
 
+## 🕹️ Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
+</picture>
+
+_Generated automatically with [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_
+
 > _"Simplicity is the soul of efficiency." – Austin Freeman_
 
 🐾 _Thanks for visiting my GitHub profile!_ 🐾
