@@ -1,6 +1,6 @@
 =
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlibzhqYjE2ZGh6dDRrNnpub2p1ZGF1Yjh4NXgwcjVzcHNiZXpveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif" width="100%" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlibzhqYjE2ZGh6dDRrNnpub2p1ZGF1Yjh4NXgwcjVzcHNiZXpveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif" width="300" />
 </p>
 # 👋 Hi, I'm **Thifaal Dzaki** ! 🧑‍💻
 
