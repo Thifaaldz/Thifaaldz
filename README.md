@@ -1,4 +1,8 @@
-# 👋 Hi, I'm **Thifaal Dzaki** — but you can call me **Thifaal**! 🧑‍💻
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlibzhqYjE2ZGh6dDRrNnpub2p1ZGF1Yjh4NXgwcjVzcHNiZXpveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/agR1cmIEcIfRy2zwbz/giphy.gif" width="300" />
+</p>
+
+# 👋 Hi, I'm **Thifaal Dzaki** ! 🧑‍💻
 
 ## 🚀 About Me
 I'm a developer who loves to code clean, fast, and efficient solutions.  
@@ -17,13 +21,8 @@ I enjoy back-end development, low-level programming, and optimizing performance.
 - 🎮 Gaming helps me reset  
 - ☕ Coffee keeps the bugs away (sometimes)
 
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F77F00&width=435&lines=Hello+I+am+Thifaal!;I+like+PHP+and+C%2B%2B!;Not+a+fan+of+drawing+%F0%9F%98%94)](https://git.io/typing-svg)
-
 ## 📊 GitHub Stats
 ![Thifaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=tokyonight)
-![Thifaal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=cobalt&icon_color=yellow)
 
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
