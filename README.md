@@ -35,7 +35,6 @@ Growing little by little — bug by bug, and line by line.
 
 ---
 
----
 
 ## 🕹️ Pac-Man Contribution Graph
 
@@ -45,6 +44,7 @@ Growing little by little — bug by bug, and line by line.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
 > _"If you don’t take risks, you can’t create a future." – Monkey D.luffy_
 
