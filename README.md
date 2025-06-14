@@ -20,6 +20,9 @@ I enjoy back-end development, low-level programming, and optimizing performance.
 ## 📊 GitHub Stats
 ![Thifaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=tokyonight)
 
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thifaal)
+
+
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com)
