@@ -38,8 +38,10 @@ I enjoy back-end development, low-level programming, and optimizing performance.
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🐍 Snake Game
-![snake gif](https://github.com/Thifaaldz/Thifaaldz/blob/output/github-contribution-grid-snake.gif)
+## 🐍 Snake Activity
+
+![snake gif](https://github.com/Thifaaldz/Thifaaldz/blob/output/github-contribution-grid-snake.svg)
+
 
 > _"Simplicity is the soul of efficiency." – Austin Freeman_
 
