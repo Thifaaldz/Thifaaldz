@@ -1,4 +1,3 @@
-=
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGRrMmRncW4zZ3lmMGF5dmRyZTc4NzQwd25hMzFlOWs5ZGF4enNncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XAZpfo9whz6nu/giphy.gif" width="300" />
 </p>
