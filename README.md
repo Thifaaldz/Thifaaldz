@@ -48,6 +48,8 @@ Growing little by little — bug by bug, and line by line.
 </picture>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thifaaldz&theme=algolia&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 > _"If you don’t take risks, you can’t create a future." – Monkey D.luffy_
 
