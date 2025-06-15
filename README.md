@@ -29,7 +29,7 @@ Growing little by little — bug by bug, and line by line.
 - ☕ Coffee keeps the bugs away
 
 ## 📊 GitHub Stats
-![Thifaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=tokyonight)
+![Thifaal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=dracula)
 
 ## 📫 Let's Connect!
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhamamdthifaaldzaki@gmail.com)
@@ -49,14 +49,6 @@ Growing little by little — bug by bug, and line by line.
 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thifaaldz&theme=algolia&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 My Favorite Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thifaaldz&layout=compact&theme=radical)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Thifaaldz&theme=gruvbox&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/github-contribution-grid-snake.svg)
 
 
 > _"If you don’t take risks, you can’t create a future." – Monkey D.luffy_
