@@ -50,6 +50,14 @@ Growing little by little — bug by bug, and line by line.
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=Thifaaldz&theme=algolia&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 📊 My Favorite Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thifaaldz&layout=compact&theme=radical)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Thifaaldz&theme=gruvbox&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/github-contribution-grid-snake.svg)
+
 
 > _"If you don’t take risks, you can’t create a future." – Monkey D.luffy_
 
