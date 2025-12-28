@@ -21,7 +21,7 @@
 ## 🧠 Skill & Expertise Analysis
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,dart,flutter,html,css,js,sql,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,dart,flutter,html,css,js,mysql,postgres,docker,linux,redis,git&theme=dark" />
 </p>
 
 ### 🔎 Focus Areas
