@@ -24,6 +24,16 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,dart,flutter,html,css,js,sql,docker,linux&theme=dark" />
 </p>
 
+### 🔎 Focus Areas
+- **Backend Development** (PHP, Laravel, Python)
+- **System Analysis & Design**
+- **Data Handling & ETL** (SQL, Pentaho)
+- **ERP & Business Process** (ERPNext)
+- **API Integration & Automation**
+- **Mobile App Development** (Flutter)
+
+---
+
 ## 📌 Academic & Project Strengths
 
 <p align="center">
@@ -31,19 +41,6 @@
   <img src="https://img.shields.io/badge/Data_Analytics-Active-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Backend_Development-Primary-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Business_Intelligence-Growing-orange?style=flat-square" />
-</p>
-
----
-
-## 📄 CV & Profile
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-thifaal-dzaki/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://thifaaldz.github.io/me/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
 </p>
 
 <p align="center">
