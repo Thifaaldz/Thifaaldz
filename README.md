@@ -1,4 +1,9 @@
 <h1 align="center">Thifaal Dzaki</h1>
+<h3 align="center">Programming Overview</h3>
+
+---
+
+## 💻 Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,dart,html,css,js&theme=dark" />
@@ -6,27 +11,25 @@
 
 ---
 
-<h3 align="center">Programming Focus</h3>
+## 📈 Language Usage (Based on Repositories)
 
-<p align="center">
-  <img src="https://github.com/Thifaaldz.png" width="120" />
-</p>
+PHP  
+███████████████████░░░░░░░  **~45%**
 
----
+Dart  
+████████████░░░░░░░░░░░░░░  **~25%**
 
-## 🔢 GitHub Activity (Simple & Clean)
+HTML  
+████████░░░░░░░░░░░░░░░░░░  **~15%**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Thifaaldz&style=flat&color=grey" />
-</p>
+CSS  
+█████░░░░░░░░░░░░░░░░░░░░  **~10%**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-Primary-777BB4?style=flat" />
-  <img src="https://img.shields.io/badge/Dart-Active-0175C2?style=flat" />
-</p>
+JavaScript  
+███░░░░░░░░░░░░░░░░░░░░░░  **~5%**
 
 ---
 
 <p align="center">
-  <i>Focused on learning and building.</i>
+  <i>Stats based on GitHub repository analysis.</i>
 </p>
