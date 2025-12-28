@@ -9,14 +9,14 @@
 
 ## 🧠 About Me
 
-I am a student who is currently building a solid foundation in software development.  
-Still early in the journey, but deeply curious about **how systems work behind the scenes**.
+I am a student currently building a strong foundation in software development.  
+Still early in the journey, but highly curious about how systems work behind the scenes.
 
 - Exploring both **Back-End** and **Front-End** development  
-- Interested in **data**, **logic**, and **system analysis**  
-- Believe in consistent growth through experimentation, mistakes, and iteration  
+- Interested in **logic**, **data**, and **system analysis**  
+- Learning through experimentation, mistakes, and iteration  
 
-> Learning one bug at a time.
+> Growing one line of code at a time.
 
 ---
 
@@ -35,7 +35,7 @@ Still early in the journey, but deeply curious about **how systems work behind t
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thifaaldz&layout=compact&langs_count=6&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thifaaldz&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Still early in the journey, but deeply curious about **how systems work behind t
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thifaaldz&show_icons=true&theme=dracula&cache_seconds=1800" />
 </p>
 
 ---
@@ -74,16 +74,6 @@ Still early in the journey, but deeply curious about **how systems work behind t
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🕹️ Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Thifaaldz/Thifaaldz/output/pacman-contribution-graph.svg">
-</picture>
 
 ---
 
