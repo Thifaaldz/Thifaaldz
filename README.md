@@ -24,16 +24,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,python,dart,flutter,html,css,js,sql,docker,linux&theme=dark" />
 </p>
 
-### 🔎 Focus Areas
-- **Backend Development** (PHP, Laravel, Python)
-- **System Analysis & Design**
-- **Data Handling & ETL** (SQL, Pentaho)
-- **ERP & Business Process** (ERPNext)
-- **API Integration & Automation**
-- **Mobile App Development** (Flutter)
-
----
-
 ## 📌 Academic & Project Strengths
 
 <p align="center">
